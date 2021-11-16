@@ -1,2 +1,1 @@
-# McGonigle-2019-LCY
-Genomic Evidence for Formate Metabolism by Chloroflexi as the Key to Unlocking Deep Carbon in Lost City Microbial Ecosystems
+This is a public repository associated with the publication "Genomic Evidence for Formate Metabolism by Chloroflexi as the Key to Unlocking Deep Carbon in Lost City Microbial Ecosystems" by Julia McGonigle et al. https://doi.org/10.1128/AEM.02583-19
